@@ -41,7 +41,7 @@
 
 ___
 # My works and projects: 
-* [MySQL queris and database](https://github.com/Tamerlan91011/MySQL-sripts)
+* [MySQL queris and database](https://tamerlan91011.github.io/MySQL-sripts/)
 
 <br />
 
