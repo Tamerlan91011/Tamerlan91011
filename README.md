@@ -42,7 +42,8 @@
 ___
 # My works and projects: 
 * [MySQL queris and database](https://tamerlan91011.github.io/MySQL-sripts/)
-* [C# with MySQL](https://github.com/Tamerlan91011/Project_DBConnection)
+* [C# with MySQL (Serious coding)](https://github.com/Tamerlan91011/Project_DBConnection)
+* [C# with MySQL (More...stupid coding)](https://github.com/Tamerlan91011/DBLiteConnection)
 <br />
 
 ___
