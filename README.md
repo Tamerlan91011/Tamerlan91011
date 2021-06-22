@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile. Hello there 👋
 
 ## ⭐ Name's Timur, but you may call me Tim. 
-## I'm glad you're here. Let me tell you a little about myself:
+## I'm glad you're here, so let me tell you a little about myself:
 <br/>
 
 ### 1. I'm student of [Volgograd State Technical University](https://www.vstu.ru/eng/)
