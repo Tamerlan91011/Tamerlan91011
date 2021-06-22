@@ -1,16 +1,26 @@
-# Hello there 👋
+# Welcome to my GitHub profile. Hello there 👋
 
-## You may call me Tim. 
+## ⭐ Name's Timur, but you may call me Tim. 
+## I'm glad you're here. Let me tell you a little about myself:
+<br/>
 
-## I'm student of [Volgograd State Technical University](https://www.vstu.ru/eng/) and here are some facts about me: 
-### ♥️ I really love: 
+### 1. I'm student of [Volgograd State Technical University](https://www.vstu.ru/eng/)
+
+Studying for a bachelor's degree in the direction of **Computer science and computer engineering**.
+Study good enough. It was hard at first, but anything that doesn't kill us makes us stronger, right?) 
+
+I am originally from Russia and my native language is Russian. However, as you can see, also communicate in English. 
+
+<ber/>
+
+### 2. ♥️ I really love: 
 * 📖 Reading thrillers 
 * 🎮 Playing videogames 
 * 📝 Writing stories 
 * 🎨 Make content with Markdown (Usually in Discord Server)
 * 🎦 Learn English with films and serials 
 
-### 👨‍🎓 Currently learning at university: 
+### 3. 👨‍🎓 Currently learning at university: 
 
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
 
@@ -23,7 +33,7 @@
 <br />
 <br />
 
-### 🤔 Want to try in the future:  
+### 4. 🤔 Want to try in the future:  
 <img align="left" alt="CSharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/> 
 
 <img align="left" alt="Dotnet" width="30px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"/> 
@@ -34,7 +44,7 @@
 <br />
 <br />
 
-### 💭 Doing as hobby: 
+### 5. 💭 Doing as hobby: 
 <img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> 
 <img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> 
 <img align="left" alt="TS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> 
@@ -69,5 +79,5 @@ ___
 
 ### I hope we'll work together well ^_^
 ---
-### With the best regards
-### Timur
+### With the best regards,
+### Glazunov Timur Alekseevich 
