@@ -9,7 +9,7 @@
 Studying for a bachelor's degree in the direction of **Computer science and computer engineering**.
 Study good enough. It was hard at first, but anything that doesn't kill us makes us stronger, right?) 
 
-I am originally from Russia and my native language is Russian. However, as you can see, also communicate in English. 
+I am originally from ***Russia*** and my native language is ***Russian***. However, as you can see, i can also communicate in ***English***. 
 
 <ber/>
 
