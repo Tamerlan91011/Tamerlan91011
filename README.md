@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile. Hello there 👋
-
 ## ⭐ Name's Timur, but you may call me Tim. 
 ## I'm glad you're here, so let me tell you a little about myself:
+
 <br/>
 
 ### 1. I'm student of [Volgograd State Technical University](https://www.vstu.ru/eng/)
@@ -17,10 +17,9 @@ I am originally from ***Russia*** and my native language is ***Russian***. Howev
 * 📖 Reading thrillers 
 * 🎮 Playing videogames 
 * 📝 Writing stories 
-* 🎨 Make content with Markdown (Usually in Discord Server)
 * 🎦 Learn English with films and serials 
 
-### 3. 👨‍🎓 Currently learning at university: 
+### 3. 👨‍🎓 Learned at university: 
 
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
 
@@ -34,11 +33,11 @@ I am originally from ***Russia*** and my native language is ***Russian***. Howev
 <br />
 
 ### 4. 🤔 Want to try in the future:  
-<img align="left" alt="CSharp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/> 
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/> 
+<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
+<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 
 
-<img align="left" alt="Dotnet" width="30px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"/> 
 
-<img align="left" alt="Unity" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"/>
 
 
 <br />
@@ -48,9 +47,12 @@ I am originally from ***Russia*** and my native language is ***Russian***. Howev
 <img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> 
 <img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> 
 <img align="left" alt="TS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> 
-<img align="left" alt="Markdown" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"/> 
 
+<br />
+<br />
 
+### 6.🔪 Also doing...
+<img align="left" alt = "codewars" src="https://www.codewars.com/users/Timurgeon/badges/large">
 <br />
 <br />
 
@@ -58,9 +60,7 @@ ___
 # My works and projects: 
 * [MySQL queris and database](https://tamerlan91011.github.io/MySQL-sripts/)
 
-* [C# with MySQL (Serious coding)](https://github.com/Tamerlan91011/Project_DBConnection)
-
-* [C# with MySQL (More...stupid coding)](https://github.com/Tamerlan91011/DBLiteConnection)
+* [C# with MySQL](https://github.com/Tamerlan91011/DBLiteConnection)
 
 * [Discord bot created with discord.js](https://github.com/Tamerlan91011/Discord_BOT)
 <br />
