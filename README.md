@@ -9,17 +9,14 @@
 Studying for a bachelor's degree in the direction of **Computer science and computer engineering**.
 Study good enough. It was hard at first, but anything that doesn't kill us makes us stronger, right?) 
 
-I am originally from ***Russia*** and my native language is ***Russian***. However, as you can see, i can also communicate in ***English***. 
-
 <ber/>
 
 ### 2. ♥️ I really love: 
 * 📖 Reading thrillers 
 * 🎮 Playing videogames 
 * 📝 Writing stories 
-* 🎦 Learn English with films and serials 
 
-### 3. 👨‍🎓 Learning at university: 
+### 3. 👨‍🎓 Used to study at university: 
 
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/> 
 
@@ -29,55 +26,27 @@ I am originally from ***Russia*** and my native language is ***Russian***. Howev
 
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/> 
 
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> 
+
+<img align="left" alt="Android" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/>
+
 <br />
 <br />
 
 ### 4. 🤔 Want to try in the future:  
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"/> 
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
-<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/> 
 
+<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/> 
+
+<img align="left" alt="django" width="30px" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"/> 
 
 
 
 <br />
 <br />
 
-### 5. 💭 Doing as hobby: 
-<img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> 
-<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> 
-<img align="left" alt="TS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/> 
-
-<br />
-<br />
-
-### 6.🔪 Also doing...
+### 🔪 Also doing...
 <img align="left" alt = "codewars" src="https://www.codewars.com/users/Timurgeon/badges/large">
 <br />
 <br />
 
-___
-# My works and projects: 
-* [MySQL queris and database](https://tamerlan91011.github.io/MySQL-sripts/)
-
-* [C# with MySQL](https://github.com/Tamerlan91011/DBLiteConnection)
-
-* [Discord bot created with discord.js](https://github.com/Tamerlan91011/Discord_BOT)
-<br />
-
-___
-
-## Contacts:
-* Main email: timurglazunov@mail.ru
-* Second email: timurgeon91011@gmail.com
-* Me in social media: [VK](https://vk.com/timurgeon)
-* Discord name: Timurgeon #3735
-
-## P.S:
-### If you didn't find a project with the specified skills and tools, 
-### it means that I'm working on it right now, and it will appear in the profile soon.
-
-### I hope we'll work together well ^_^
----
-### With the best regards,
-### Glazunov Timur Alekseevich 
